@@ -18,7 +18,7 @@
 ## Computer Science 
 - [Awesome Computer Science](https://github.com/Bluebear171/awesome#computer-science)
 - [CS50 Introduction to Computer Science](https://cs50.harvard.edu/weeks)
-- 
+
 
 
 ## Programming
@@ -49,6 +49,7 @@
 
 
 ## Mobile App Development:Android/ios
+
 
 ## Miscellaneous
 
