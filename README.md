@@ -3,7 +3,7 @@
 ## Table of Contents
  - [Computer Science](#computerscience)
  - [Programming](#programming)
- - [Cyber Security](#cybersecurity)
+ - [Cyber Security](#cyber security)
  - [Digital Forensic](#digitalforensic)
  - [Artificial intelligence](#ai)
  - [Platforms](#platforms)
@@ -22,7 +22,7 @@
 - [Stanford Computer Science 101](http://online.stanford.edu/course/computer-science-101-self-paced)
 - [Udacity Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
 
-## Programming]
+## Programming
 - [Awesome Programming Language](https://github.com/Bluebear171/awesome#programming-languages)
 - [Front-End Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 - [Full Stack Developert Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
@@ -43,7 +43,7 @@
 - [CNIT 124 Advanced Ethical Hacking](https://samsclass.info/123/123_F16.shtml)
 - [CNIT 125: Information Security Professional(CISSP Preparation)](https://samsclass.info/125/125_S16.shtml)
 - [CNIT 140: IT Security Practices](https://samsclass.info/140/140_F16.shtml)
-- [CNIT 141: Cryptography for Computer Networks]()
+- [CNIT 141: Cryptography for Computer Networks](https://samsclass.info/141/141_S17.shtml)
 
 ## Digital Forensic
 - [Awesome Forensic](https://github.com/Bluebear171/awesome-forensics)
