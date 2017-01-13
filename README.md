@@ -43,18 +43,26 @@
 - [CNIT 125: Information Security Professional(CISSP Preparation)](https://samsclass.info/125/125_S16.shtml)
 - [CNIT 140: IT Security Practices](https://samsclass.info/140/140_F16.shtml)
 - [CNIT 141: Cryptography for Computer Networks](https://samsclass.info/141/141_S17.shtml)
+- [CSCI4968 Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+- [CSCI 4974 / 6974 Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
+- [Offensive Computer Security](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
+- [Bill's Security Website](http://asecuritysite.com/)
+
 
 ## Digital Forensic
 - [Awesome Forensic](https://github.com/Bluebear171/awesome-forensics)
 - [Awesome Malware Analysis](https://github.com/Bluebear171/awesome-malware-analysis)
 - [Practical Malware Analysis](https://samsclass.info/126/126_S16.shtml)
-
+- [CSCI 4972/6963 Malware Analysis](http://security.cs.rpi.edu/courses/malware-spring2013/)
+- [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/)
+- [CNIT121 Computer Forensic](https://samsclass.info/121/121_S15.shtml)
+- [COEN 252 Computer Forensics](http://www.cse.scu.edu/~tschwarz/coen252_07Fall/ln.html)
 
 ## Artificial intelligence
 
 
 ## Platforms
-
+- [CS465]
 
 ## Big Data
 - [Big Data University](https://bigdatauniversity.com/)
