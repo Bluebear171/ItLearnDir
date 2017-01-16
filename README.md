@@ -52,7 +52,7 @@
 - [CS161 Computer Security Spring 2015](http://inst.eecs.berkeley.edu/~cs161/sp15/)
 - [SDL Microsoft](https://www.microsoft.com/en-us/SDL/process/training.aspx)
 - [Computer Security Student](http://www.computersecuritystudent.com/HOME/index.html)
-- [Vulnhub]()
+- [Vulnhub](https://www.vulnhub.com/resources/)
 
 ## Digital Forensic
 - [Awesome Forensic](https://github.com/Bluebear171/awesome-forensics)
@@ -63,6 +63,7 @@
 - [CNIT121 Computer Forensic](https://samsclass.info/121/121_S15.shtml)
 - [COEN 252 Computer Forensics](http://www.cse.scu.edu/~tschwarz/coen252_07Fall/ln.html)
 - [Wireshark Trainning Download](http://ourdownload.net/index.php/2016/06/06/wireshark-training/)
+- [Secret of Digital forensic:Tools]()
 
 ## Artificial intelligence
 
