@@ -63,7 +63,7 @@
 - [CNIT121 Computer Forensic](https://samsclass.info/121/121_S15.shtml)
 - [COEN 252 Computer Forensics](http://www.cse.scu.edu/~tschwarz/coen252_07Fall/ln.html)
 - [Wireshark Trainning Download](http://ourdownload.net/index.php/2016/06/06/wireshark-training/)
-- [Secret of Digital forensic:Tools]()
+- [Secret of Digital forensic:Tools](https://www.digi77.com/the-little-secret-on-digital-forensics/)
 
 ## Artificial intelligence
 
