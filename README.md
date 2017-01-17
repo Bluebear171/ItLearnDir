@@ -53,6 +53,11 @@
 - [SDL Microsoft](https://www.microsoft.com/en-us/SDL/process/training.aspx)
 - [Computer Security Student](http://www.computersecuritystudent.com/HOME/index.html)
 - [Vulnhub](https://www.vulnhub.com/resources/)
+- [OWASP Web Broken Application Project](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project)
+- [Information Security Video: irongeek](http://www.irongeek.com/)
+- [Pwn Wiki.io](http://pwnwiki.io/#!index.md)
+- [Kan Xue Software Security Documentation](http://www.pediy.com/kssd/)
+- [Kali Linux Tools中文說明書](https://kali.ictf.pw/)
 
 ## Digital Forensic
 - [Awesome Forensic](https://github.com/Bluebear171/awesome-forensics)
@@ -64,9 +69,12 @@
 - [COEN 252 Computer Forensics](http://www.cse.scu.edu/~tschwarz/coen252_07Fall/ln.html)
 - [Wireshark Trainning Download](http://ourdownload.net/index.php/2016/06/06/wireshark-training/)
 - [Secret of Digital forensic:Tools](https://www.digi77.com/the-little-secret-on-digital-forensics/)
+- [Corealan Team Article](https://www.corelan.be/index.php/articles/)
+- [Malware Traffic Analysis Exercise](http://www.malware-traffic-analysis.net/)
+- [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.my/p/malware-analysis-tutorials-reverse.html)
+
 
 ## Artificial intelligence
-
 
 ## Platforms
 - [CS465 UNIX Operating System](http://academic.regis.edu/psmallwo/SitePages/CS465/465home.htm)
@@ -103,6 +111,7 @@
 - [Microsoft Virstrul academy](https://mva.microsoft.com/)
 - [Technical Development Guide by Google](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Python Telegram bot](https://github.com/Bluebear171/python-telegram-bot)
+- [IMOC:Language~Chinese](http://www.imooc.com/)
 
 
 ## Web Development
