@@ -104,7 +104,6 @@
 - [Become an iOS Develope](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
 - [Developer of Android official website](https://developer.android.com/develop/index.html)
 
-
 ## Miscellaneous
 - [Analytics Academy Courses](https://analyticsacademy.withgoogle.com/)
 - [Google Interview University](https://github.com/jwasham/google-interview-university)
@@ -112,7 +111,6 @@
 - [Technical Development Guide by Google](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Python Telegram bot](https://github.com/Bluebear171/python-telegram-bot)
 - [IMOC:Language~Chinese](http://www.imooc.com/)
-
 
 ## Web Development
 - [Google Web Master](https://www.google.com/webmasters/#?modal_active=none)
