@@ -43,7 +43,7 @@
 - [CNIT 125: Information Security Professional(CISSP Preparation)](https://samsclass.info/125/125_S16.shtml)
 - [CNIT 140: IT Security Practices](https://samsclass.info/140/140_F16.shtml)
 - [CNIT 141: Cryptography for Computer Networks](https://samsclass.info/141/141_S17.shtml)
-- [CSCI4968 Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+- [CSCI 4968 Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 - [CSCI 4974 / 6974 Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
 - [Offensive Computer Security](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 - [Bill's Security Website](http://asecuritysite.com/)
@@ -58,6 +58,7 @@
 - [Pwn Wiki.io](http://pwnwiki.io/#!index.md)
 - [Kan Xue Software Security Documentation](http://www.pediy.com/kssd/)
 - [Kali Linux Tools中文說明書](https://kali.ictf.pw/)
+- [Got your PW](https://gotyour.pw/index.html)
 
 ## Digital Forensic
 - [Awesome Forensic](https://github.com/Bluebear171/awesome-forensics)
@@ -72,7 +73,6 @@
 - [Corealan Team Article](https://www.corelan.be/index.php/articles/)
 - [Malware Traffic Analysis Exercise](http://www.malware-traffic-analysis.net/)
 - [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.my/p/malware-analysis-tutorials-reverse.html)
-
 
 ## Artificial intelligence
 
