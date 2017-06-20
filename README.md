@@ -59,6 +59,8 @@
 - [Kan Xue Software Security Documentation](http://www.pediy.com/kssd/)
 - [Kali Linux Tools中文說明書](https://kali.ictf.pw/)
 - [Got your PW](https://gotyour.pw/index.html)
+- [PTES Guide Line](https://goo.gl/GRSWgP)
+- [Evo.G Team Tutorial(馬來西亞首創中文電腦安全各種教程)](https://goo.gl/NNnEqo)
 
 ## Digital Forensic
 - [Awesome Forensic](https://github.com/Bluebear171/awesome-forensics)
@@ -111,7 +113,8 @@
 - [Technical Development Guide by Google](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Python Telegram bot](https://github.com/Bluebear171/python-telegram-bot)
 - [IMOC:Language~Chinese](http://www.imooc.com/)
-
+- [500 GB Google Drive IT learning Resource](https://goo.gl/bjWJDX)
+- [Operation Engineers Curriculum](https://goo.gl/RZb5sG)
 ## Web Development
 - [Google Web Master](https://www.google.com/webmasters/#?modal_active=none)
 - [Web Fundamental](https://developers.google.com/web/fundamentals/?hl=en)
