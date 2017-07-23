@@ -119,6 +119,8 @@
 - [IMOC:Language~Chinese](http://www.imooc.com/)
 - [500 GB Google Drive IT learning Resource](https://goo.gl/bjWJDX)
 - [Operation Engineers Curriculum](https://goo.gl/RZb5sG)
+- [Free code camp](https://www.freecodecamp.org/map)
+- [Code Academy](https://www.codecademy.com/)
 
 ## Web Development
 - [Google Web Master](https://www.google.com/webmasters/#?modal_active=none)
