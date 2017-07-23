@@ -61,6 +61,7 @@
 - [Got your PW](https://gotyour.pw/index.html)
 - [PTES Guide Line](https://goo.gl/GRSWgP)
 - [Evo.G Team Tutorial(馬來西亞首創中文電腦安全各種教程)](https://goo.gl/NNnEqo)
+- [Fuzzy Security Tutorial](http://www.fuzzysecurity.com/tutorials.html)
 
 ## Digital Forensic
 - [Awesome Forensic](https://github.com/Bluebear171/awesome-forensics)
@@ -75,11 +76,14 @@
 - [Corealan Team Article](https://www.corelan.be/index.php/articles/)
 - [Malware Traffic Analysis Exercise](http://www.malware-traffic-analysis.net/)
 - [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.my/p/malware-analysis-tutorials-reverse.html)
+- [The legend of RANDOM: Reveqrse Engineering Tutorial](http://octopuslabs.io/legend/blog/sample-page.html)
+- [TUTS 4 you: Reverse Engineering Tutorial](https://tuts4you.com/download.php?list.19)
 
 ## Artificial intelligence
 
 ## Platforms
 - [CS465 UNIX Operating System](http://academic.regis.edu/psmallwo/SitePages/CS465/465home.htm)
+- [Linux Documentation Project:Various Guideline](http://tldp.org/guides.html)
 
 ## Big Data
 - [Big Data University](https://bigdatauniversity.com/)
@@ -115,6 +119,8 @@
 - [IMOC:Language~Chinese](http://www.imooc.com/)
 - [500 GB Google Drive IT learning Resource](https://goo.gl/bjWJDX)
 - [Operation Engineers Curriculum](https://goo.gl/RZb5sG)
+
 ## Web Development
 - [Google Web Master](https://www.google.com/webmasters/#?modal_active=none)
 - [Web Fundamental](https://developers.google.com/web/fundamentals/?hl=en)
+- [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
