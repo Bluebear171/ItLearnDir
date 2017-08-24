@@ -103,6 +103,7 @@
 - [Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 - [Machine Learning Specialization by Coursera](https://www.coursera.org/specializations/machine-learning)
 - [Andrew Ng](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+- [Machine Learning for Humans road map](https://goo.gl/3sGHmT)
 
 ## Mobile App Development:Android/ios
 - [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
@@ -127,3 +128,4 @@
 - [Web Fundamental](https://developers.google.com/web/fundamentals/?hl=en)
 - [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 - [Khan academy web programming course](https://www.khanacademy.org/computing/computer-programming)
+- [Path for Web Development](https://www.theodinproject.com/)
