@@ -20,6 +20,7 @@
 - [CS50 Introduction to Computer Science](https://cs50.harvard.edu/)
 - [Stanford Computer Science 101](http://online.stanford.edu/course/computer-science-101-self-paced)
 - [Udacity Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
+- [Google CS Programe](https://edu.google.com/cs/index.html)
 
 ## Programming
 - [Awesome Programming Language](https://github.com/Bluebear171/awesome#programming-languages)
@@ -81,6 +82,7 @@
 
 ## Artificial intelligence
 - [MIT 6.034 Artificial intelligence](https://goo.gl/wVWpcC)
+
 ## Platforms
 - [CS465 UNIX Operating System](http://academic.regis.edu/psmallwo/SitePages/CS465/465home.htm)
 - [Linux Documentation Project:Various Guideline](http://tldp.org/guides.html)
@@ -104,7 +106,6 @@
 
 ## Cloud Computing
 
-
 ## Machine Learning
 - [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 - [Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
@@ -113,29 +114,39 @@
 - [Machine Learning for Humans road map](https://goo.gl/3sGHmT)
 - [MIT 6.S094: Deep Learning for Self-Driving Cars](https://goo.gl/rLnk1i)
 - [Kaggle ensembling guide](https://mlwave.com/kaggle-ensembling-guide/)
-
+- [Deep learning Module](http://deeplearning.stanford.edu/tutorial/)
+- [Reinforcement Learning Tutorial Slides by Andrew Moore](https://goo.gl/Y9yMWb)
+- [CS229 - Machine Learning](https://goo.gl/67Uqtt)
+- [Machine Learning with Financial Time Series Data](https://goo.gl/snnLY3)
 
 ## Mobile App Development:Android/ios
 - [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 - [Android Developer Nanodegree by Google](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
 - [Become an iOS Develope](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
 - [Developer of Android official website](https://developer.android.com/develop/index.html)
+- [Full Stack Web and Multiplatform Mobile App Development Specialization](https://goo.gl/rGv6uo)
 
 ## Miscellaneous
 - [Analytics Academy Courses](https://analyticsacademy.withgoogle.com/)
 - [Google Interview University](https://github.com/jwasham/google-interview-university)
 - [Microsoft Virstrul academy](https://mva.microsoft.com/)
-- [Technical Development Guide by Google](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+- [Technical Development Guide by Google](https://goo.gl/3ieN7C)
 - [Python Telegram bot](https://github.com/Bluebear171/python-telegram-bot)
 - [IMOC:Language~Chinese](http://www.imooc.com/)
 - [500 GB Google Drive IT learning Resource](https://goo.gl/bjWJDX)
 - [Operation Engineers Curriculum](https://goo.gl/RZb5sG)
 - [Free code camp](https://www.freecodecamp.org/map)
 - [Code Academy](https://www.codecademy.com/)
-
+- [Netymol School of Knowledge](https://goo.gl/ZjiXw9)
+- [SIPB IAP 2014 Activities](https://stuff.mit.edu/iap/2014/)
+- [Google Free Course in Udacity](https://goo.gl/hyidiL)
+- [實驗樓](https://goo.gl/cTs6ff)
 ## Web Development
 - [Google Web Master](https://www.google.com/webmasters/#?modal_active=none)
 - [Web Fundamental](https://developers.google.com/web/fundamentals/?hl=en)
 - [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 - [Khan academy web programming course](https://www.khanacademy.org/computing/computer-programming)
 - [Path for Web Development](https://www.theodinproject.com/)
+
+## Networking
+- [Cisco完整版学习笔记(从CCNA到CCIE)](https://forum.eviloctal.com/redirect.php?tid=42525&goto=lastpost)
