@@ -80,7 +80,7 @@
 - [TUTS 4 you: Reverse Engineering Tutorial](https://tuts4you.com/download.php?list.19)
 
 ## Artificial intelligence
-
+- [MIT 6.034 Artificial intelligence](https://goo.gl/wVWpcC)
 ## Platforms
 - [CS465 UNIX Operating System](http://academic.regis.edu/psmallwo/SitePages/CS465/465home.htm)
 - [Linux Documentation Project:Various Guideline](http://tldp.org/guides.html)
@@ -88,12 +88,19 @@
 ## Big Data
 - [Big Data University](https://bigdatauniversity.com/)
 - [Big Data Specialization by Coursera](https://www.coursera.org/specializations/big-data)
+- [Spark](https://goo.gl/y4WqH5)
 
 ## Data Science
 - [Data Analyst Nanodegree by Google](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 - [Dataquest](https://www.dataquest.io/home)
 - [Data Science Fundamentals](https://bigdatauniversity.com/learn/data-science/)
 - [Data Science Specialization by Coursera](https://www.coursera.org/specializations/jhu-data-science)
+- [Introduction to Computational Thinking and Data Science](https://goo.gl/7YR22A)
+- [Oxford Deep Learning](https://goo.gl/423Wwy)
+- [Learn R for Data Science](https://goo.gl/HyJyDb)
+- [Inferential Statistic in Udacity](https://goo.gl/u8QMjH)
+- [Descriptive Statistic in Udacity](https://goo.gl/S7vX8F)
+- [Must Read book in Data Science](https://goo.gl/qmEK2A)
 
 ## Cloud Computing
 
@@ -104,6 +111,9 @@
 - [Machine Learning Specialization by Coursera](https://www.coursera.org/specializations/machine-learning)
 - [Andrew Ng](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 - [Machine Learning for Humans road map](https://goo.gl/3sGHmT)
+- [MIT 6.S094: Deep Learning for Self-Driving Cars](https://goo.gl/rLnk1i)
+- [Kaggle ensembling guide](https://mlwave.com/kaggle-ensembling-guide/)
+
 
 ## Mobile App Development:Android/ios
 - [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
