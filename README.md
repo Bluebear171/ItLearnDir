@@ -26,7 +26,17 @@
 - [Awesome Programming Language](https://github.com/Bluebear171/awesome#programming-languages)
 - [Front-End Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 - [Full Stack Developert Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
+- [Software Testing](https://goo.gl/gvDykj)
+- [Software Debugging](https://goo.gl/WdNJq6)
 - [Intro to Programming Nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)
+- [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program)
+- [Design for computer programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
+- [Learn to Program: Crafting Quality Code](https://goo.gl/TYyMJg)
+- [CSCI Introduction to Programming Language](https://goo.gl/FMk4B4)
+- [Programming Languages, Part A](https://goo.gl/NBaWD4)
+- [MIT Introduction to Algorithms](https://goo.gl/pZF3hB)
+- [Algorithm part 1](https://goo.gl/5vQovh)
+- [Algorithm part 2](https://goo.gl/MwBQqR)
 
 ## Cyber Security
 - [Awesome Hacking](https://github.com/Bluebear171/Awesome-Hacking)
@@ -125,6 +135,7 @@
 - [Become an iOS Develope](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
 - [Developer of Android official website](https://developer.android.com/develop/index.html)
 - [Full Stack Web and Multiplatform Mobile App Development Specialization](https://goo.gl/rGv6uo)
+- [UX Design for Mobile Developers](https://goo.gl/WwTcpM)
 
 ## Miscellaneous
 - [Analytics Academy Courses](https://analyticsacademy.withgoogle.com/)
@@ -141,6 +152,8 @@
 - [SIPB IAP 2014 Activities](https://stuff.mit.edu/iap/2014/)
 - [Google Free Course in Udacity](https://goo.gl/hyidiL)
 - [實驗樓](https://goo.gl/cTs6ff)
+- [CompTIA 220-901](https://goo.gl/EbcG4N)
+
 ## Web Development
 - [Google Web Master](https://www.google.com/webmasters/#?modal_active=none)
 - [Web Fundamental](https://developers.google.com/web/fundamentals/?hl=en)
