@@ -37,6 +37,7 @@
 - [MIT Introduction to Algorithms](https://goo.gl/pZF3hB)
 - [Algorithm part 1](https://goo.gl/5vQovh)
 - [Algorithm part 2](https://goo.gl/MwBQqR)
+- [Every Programmer should know](https://goo.gl/Sg1mJU)
 
 ## Cyber Security
 - [Awesome Hacking](https://github.com/Bluebear171/Awesome-Hacking)
@@ -128,6 +129,7 @@
 - [Reinforcement Learning Tutorial Slides by Andrew Moore](https://goo.gl/Y9yMWb)
 - [CS229 - Machine Learning](https://goo.gl/67Uqtt)
 - [Machine Learning with Financial Time Series Data](https://goo.gl/snnLY3)
+- [Deeplearning Mindmap](https://goo.gl/KQnM3F)
 
 ## Mobile App Development:Android/ios
 - [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
@@ -153,7 +155,7 @@
 - [Google Free Course in Udacity](https://goo.gl/hyidiL)
 - [實驗樓](https://goo.gl/cTs6ff)
 - [CompTIA 220-901](https://goo.gl/EbcG4N)
-
+- [Google Developer Documentation Guide](https://goo.gl/r3HNJK)
 ## Web Development
 - [Google Web Master](https://www.google.com/webmasters/#?modal_active=none)
 - [Web Fundamental](https://developers.google.com/web/fundamentals/?hl=en)
