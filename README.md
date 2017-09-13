@@ -130,6 +130,7 @@
 - [CS229 - Machine Learning](https://goo.gl/67Uqtt)
 - [Machine Learning with Financial Time Series Data](https://goo.gl/snnLY3)
 - [Deeplearning Mindmap](https://goo.gl/KQnM3F)
+- [Pytouch Framework Tutorial](https://goo.gl/G9bvwG)
 
 ## Mobile App Development:Android/ios
 - [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
