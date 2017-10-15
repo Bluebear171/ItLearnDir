@@ -53,7 +53,7 @@
 - [CNIT 50 Network Security](https://samsclass.info/50/50_F17.shtml)
 - [CNIT 124 Advanced Ethical Hacking](https://samsclass.info/124/124_F15.shtml)
 - [CNIT 125: Information Security Professional(CISSP Preparation)](https://www.samsclass.info/125/125_F17.shtml)
-- [CNIT 140: IT Security Practices](https://samsclass.info/140/140_F16.shtml)
+- [CNIT 140: IT Security Practices](https://samsclass.info/140/140_F17.shtml)
 - [CNIT 141: Cryptography for Computer Networks](https://samsclass.info/141/141_S17.shtml)
 - [CSCI 4968 Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 - [CSCI 4974 / 6974 Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
