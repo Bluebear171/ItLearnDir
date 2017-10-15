@@ -51,7 +51,7 @@
 - [CNIT 127: Exploit Development](https://samsclass.info/127/127_S17.shtml)
 - [CNIT 128: Hacking Mobile Devices](https://samsclass.info/128/128_S17.shtml)
 - [CNIT 50 Network Security](https://samsclass.info/50/50_F17.shtml)
-- [CNIT 124 Advanced Ethical Hacking](https://samsclass.info/123/123_F16.shtml)
+- [CNIT 124 Advanced Ethical Hacking](https://samsclass.info/124/124_F15.shtml)
 - [CNIT 125: Information Security Professional(CISSP Preparation)](https://samsclass.info/125/125_S16.shtml)
 - [CNIT 140: IT Security Practices](https://samsclass.info/140/140_F16.shtml)
 - [CNIT 141: Cryptography for Computer Networks](https://samsclass.info/141/141_S17.shtml)
@@ -90,12 +90,16 @@
 - [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.my/p/malware-analysis-tutorials-reverse.html)
 - [The legend of RANDOM: Reveqrse Engineering Tutorial](http://octopuslabs.io/legend/blog/sample-page.html)
 - [TUTS 4 you: Reverse Engineering Tutorial](https://tuts4you.com/download.php?list.19)
+- [ARM ASSEMBLY Basic & Exploit Development]](https://azeria-labs.com)
+- [Chinese Version for ARM](http://bbs.pediy.com/thread-220461.htm)
 
 ## Artificial intelligence
 - [MIT 6.034 Artificial intelligence](https://goo.gl/wVWpcC)
 
 ## Platforms
-- [CS465 UNIX Operating System](http://academic.regis.edu/psmallwo/SitePages/CS465/465home.htm)
+- [CS465 UNIX 
+
+Operating System](http://academic.regis.edu/psmallwo/SitePages/CS465/465home.htm)
 - [Linux Documentation Project:Various Guideline](http://tldp.org/guides.html)
 
 ## Big Data
