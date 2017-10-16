@@ -78,7 +78,7 @@
 ## Digital Forensic
 - [Awesome Forensic](https://github.com/Bluebear171/awesome-forensics)
 - [Awesome Malware Analysis](https://github.com/Bluebear171/awesome-malware-analysis)
-- [Practical Malware Analysis](https://samsclass.info/126/126_S16.shtml)
+- [Practical Malware Analysis](https://samsclass.info/126/126_S17.shtml)
 - [CSCI 4972/6963 Malware Analysis](http://security.cs.rpi.edu/courses/malware-spring2013/)
 - [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/)
 - [CNIT121 Computer Forensic](https://samsclass.info/121/121_S15.shtml)
