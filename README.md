@@ -60,8 +60,8 @@
 - [Offensive Computer Security](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 - [Bill's Security Website](http://asecuritysite.com/)
 - [Hack Night](https://github.com/isislab/Hack-Night)
-- [6.857 Computer and Network Security](http://courses.csail.mit.edu/6.857/2011/handouts)
-- [CS161 Computer Security Spring 2015](http://inst.eecs.berkeley.edu/~cs161/sp15/)
+- [6.857 Computer and Network Security](http://courses.csail.mit.edu/6.857/2017/handouts)
+- [CS161 Computer Security Spring 2017](https://www.icir.org/vern/cs161-sp17/)
 - [SDL Microsoft](https://www.microsoft.com/en-us/SDL/process/training.aspx)
 - [Computer Security Student](http://www.computersecuritystudent.com/HOME/index.html)
 - [Vulnhub](https://www.vulnhub.com/resources/)
@@ -90,16 +90,14 @@
 - [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.my/p/malware-analysis-tutorials-reverse.html)
 - [The legend of RANDOM: Reveqrse Engineering Tutorial](http://octopuslabs.io/legend/blog/sample-page.html)
 - [TUTS 4 you: Reverse Engineering Tutorial](https://tuts4you.com/download.php?list.19)
-- [ARM ASSEMBLY Basic & Exploit Development]](https://azeria-labs.com)
+- [ARM ASSEMBLY Basic & Exploit Development](https://azeria-labs.com)
 - [Chinese Version for ARM](http://bbs.pediy.com/thread-220461.htm)
 
 ## Artificial intelligence
 - [MIT 6.034 Artificial intelligence](https://goo.gl/wVWpcC)
 
 ## Platforms
-- [CS465 UNIX 
-
-Operating System](http://academic.regis.edu/psmallwo/SitePages/CS465/465home.htm)
+- [CS465 UNIX Operating System](http://academic.regis.edu/psmallwo/SitePages/CS465/465home.htm)
 - [Linux Documentation Project:Various Guideline](http://tldp.org/guides.html)
 
 ## Big Data
