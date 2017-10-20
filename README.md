@@ -21,6 +21,7 @@
 - [Stanford Computer Science 101](http://online.stanford.edu/course/computer-science-101-self-paced)
 - [Udacity Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
 - [Google CS Programe](https://edu.google.com/cs/index.html)
+- [](http://study.163.com/curricula/cs.htm?from=study)
 
 ## Programming
 - [Awesome Programming Language](https://github.com/Bluebear171/awesome#programming-languages)
@@ -78,6 +79,7 @@
 ## Digital Forensic
 - [Awesome Forensic](https://github.com/Bluebear171/awesome-forensics)
 - [Awesome Malware Analysis](https://github.com/Bluebear171/awesome-malware-analysis)
+- [Awesome Reverse Engineering](https://github.com/fdivrp/awesome-reversing)
 - [Practical Malware Analysis](https://samsclass.info/126/126_S17.shtml)
 - [CSCI 4972/6963 Malware Analysis](http://security.cs.rpi.edu/courses/malware-spring2013/)
 - [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/)
@@ -133,6 +135,10 @@
 - [Machine Learning with Financial Time Series Data](https://goo.gl/snnLY3)
 - [Deeplearning Mindmap](https://goo.gl/KQnM3F)
 - [Pytouch Framework Tutorial](https://goo.gl/G9bvwG)
+- [Deep Learning MIT Press book](http://www.deeplearningbook.org)
+- [Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
+- [Practical Deep Learning For Coders](http://course.fast.ai)
+- [莫煩機械學習](https://morvanzhou.github.io/tutorials/machine-learning/)
 
 ## Mobile App Development:Android/ios
 - [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
@@ -159,6 +165,8 @@
 - [實驗樓](https://goo.gl/cTs6ff)
 - [CompTIA 220-901](https://goo.gl/EbcG4N)
 - [Google Developer Documentation Guide](https://goo.gl/r3HNJK)
+- [Any University IT Course Youtube Github Directory](https://github.com/Developer-Y/cs-video-courses)
+
 ## Web Development
 - [Google Web Master](https://www.google.com/webmasters/#?modal_active=none)
 - [Web Fundamental](https://developers.google.com/web/fundamentals/?hl=en)
