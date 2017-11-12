@@ -139,6 +139,7 @@
 - [Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
 - [Practical Deep Learning For Coders](http://course.fast.ai)
 - [莫煩機械學習](https://morvanzhou.github.io/tutorials/machine-learning/)
+- [Step-by-Step Guide for Machine Learning](https://machinelearningmastery.com/start-here/)
 
 ## Mobile App Development:Android/ios
 - [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
