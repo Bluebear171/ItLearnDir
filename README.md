@@ -140,6 +140,10 @@
 - [Practical Deep Learning For Coders](http://course.fast.ai)
 - [莫煩機械學習](https://morvanzhou.github.io/tutorials/machine-learning/)
 - [Step-by-Step Guide for Machine Learning](https://machinelearningmastery.com/start-here/)
+- [Machine Learning Note -github](https://github.com/lcatro/Machine-Learning-Note)
+- [开源机器学习软件](http://www.cnblogs.com/ssooking/p/6077177.html)
+- [常用牛人主页链接](http://www.cnblogs.com/ssooking/p/6077150.html)
+- [国外人工智能界牛人主页 ](http://www.cnblogs.com/ssooking/p/6077172.html)
 
 ## Mobile App Development:Android/ios
 - [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
@@ -167,6 +171,7 @@
 - [CompTIA 220-901](https://goo.gl/EbcG4N)
 - [Google Developer Documentation Guide](https://goo.gl/r3HNJK)
 - [Any University IT Course Youtube Github Directory](https://github.com/Developer-Y/cs-video-courses)
+- [学习资源1.0版 by 1nvictus](http://www.jianshu.com/p/4fe852764f0b)
 
 ## Web Development
 - [Google Web Master](https://www.google.com/webmasters/#?modal_active=none)
