@@ -144,6 +144,7 @@
 - [开源机器学习软件](http://www.cnblogs.com/ssooking/p/6077177.html)
 - [常用牛人主页链接](http://www.cnblogs.com/ssooking/p/6077150.html)
 - [国外人工智能界牛人主页 ](http://www.cnblogs.com/ssooking/p/6077172.html)
+- [Machine Learning Related Course from CSIE NTU by Hsuan Tien Lin](https://www.csie.ntu.edu.tw/~htlin/course/)
 
 ## Mobile App Development:Android/ios
 - [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
